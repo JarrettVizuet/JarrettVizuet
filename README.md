@@ -45,7 +45,7 @@
 ### 📫 Contact
 
 - 📧 Email: jarrett_vizuet@outlook.com  
-- 💼 LinkedIn: (pon aquí tu link)
+- 💼 LinkedIn: <a href="www.linkedin.com/in/jarrettvizuet" target="_blank">www.linkedin.com/in/jarrettvizuet</a>
 - 📞 Phone: +52 55 2112 4834
 ---
 
