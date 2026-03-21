@@ -10,8 +10,8 @@
 - 🎓 Software and Network Engineering graduate from UNITEC  
 - 💻 Full Stack Developer with experience in real-world projects  
 - 🚀 I enjoy building web applications that solve real problems  
-- 🔥 I worked while studying for 3+ years gaining hands-on experience  
-- 🌎 Experience working with U.S. clients  
+- 🔥 I worked while studying for 4+ years gaining hands-on experience  
+- 🤝 Experience working with clients, accountants and stakeholders  
 
 ---
 
