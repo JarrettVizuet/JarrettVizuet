@@ -1,6 +1,6 @@
 ## Hi there!!
 
-<h1 align="center">Hi 👋, I'm Jarrett Vizuet</h1>
+<h1 align="center">I'm Jarrett Vizuet</h1>
 <h3 align="center">Full Stack Developer | Frontend Lead</h3>
 
 ---
@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Software and Network Engineering graduate from UNITEC  
-- 💻 Full Stack Developer with experience in real-world projects  
+- 💻 Full Stack Developer with experience in real projects  
 - 🚀 I enjoy building web applications that solve real problems  
 - 🔥 I worked while studying for 4+ years gaining hands-on experience  
 - 🤝 Experience working with clients, accountants and stakeholders  
